@@ -1,0 +1,4 @@
+config_path = "/etc/openvpn/vpnbook-us1-udp25000.ovpn"
+server_name = "us1.vpnbook.com"
+username = "vpnbook"
+password = "3ev7r8m"
